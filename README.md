@@ -1,2 +1,2 @@
 # Nesterov-gradient-descent
-Nesterov gradient descent
+加速梯度下降法可以看作镜像梯度法与梯度下降法的结合，诚如翻译报告中可见，本章节着重于介绍加速梯度下降法所带来的结果而非过程，因此代码部分的重点即为Nesterov的加速梯度下降法
